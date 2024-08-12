@@ -1,5 +1,5 @@
 # LACrimeStatistics
-A data analysis on Los Angeles crime statistics. 
+A data analysis on Los Angeles crime statistics. See the main file (LA Crime Project) for my analysis.
 
 ## Table of Contents  
 - [Project Overview](#project-overview)
@@ -9,6 +9,9 @@ A data analysis on Los Angeles crime statistics.
 ### Project Overview
 
 This data analysis project aimed to showcase my Python skills and provide insights into the crime statistics in Los Angeles, California, USA. By analyzing and grouping various catagories in the dataset, insights into when, where and what crimes were committed became very clear. 
+
+![Charts](https://github.com/user-attachments/assets/c16cd85d-3bd3-4a15-8917-c92ae10c16ad)
+
 
 ### Data Sources
 
