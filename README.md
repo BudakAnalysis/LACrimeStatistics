@@ -8,8 +8,7 @@ A data analysis on Los Angeles crime statistics. See the main file (LA Crime Pro
 
 ### Project Overview
 
-This data analysis project aimed to showcase my Python skills and provide insights into the crime statistics in Los Angeles, California, USA. By analyzing and grouping various categories in the dataset, insights into when, where and what crimes were committed became clear through graphs and figures. 
-
+This data analysis project aimed to showcase my Python skills and provide insights into the crime statistics in Los Angeles, California, USA. By analyzing and grouping various categories in the dataset, insights into what time of day the most crimes were committed, which area in Los Angeles the most crime was committed and what kind of crimes were committed the most, became clear through graphs and figures. Using Python for data cleaning, manipulation and analysis.
 ![Charts](https://github.com/user-attachments/assets/c16cd85d-3bd3-4a15-8917-c92ae10c16ad)
 
 
